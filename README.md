@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-# Titre 1
+# Titre 1 !
 
 ## Titre 2
 
